@@ -33,6 +33,10 @@ public class App
 		   arrNombre[i]=s.nextLine();
 		}
     	
+    	for (int i = 0; i < arrNombre.length; i++) {
+    		System.out.print(arrNombre[i]);
+		}
+    	
         
     }
 }
