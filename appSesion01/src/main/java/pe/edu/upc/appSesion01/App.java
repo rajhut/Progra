@@ -30,10 +30,13 @@ public class App
     	//Estructuras de control
     	for (int i = 0; i < arrNombre.length; i++) {
 		   System.out.print("Ingrese un nombre"+(i+1));
+		   System.out.print("hola");
 		   arrNombre[i]=s.nextLine();
+		   System.out.print("hola");
 		}
     	
     	for (int i = 0; i < arrNombre.length; i++) {
+    		System.out.print("hola");
     		System.out.print(arrNombre[i]);
     		System.out.print("hola");
 		}
