@@ -35,6 +35,7 @@ public class App
     	
     	for (int i = 0; i < arrNombre.length; i++) {
     		System.out.print(arrNombre[i]);
+    		System.out.print("hola");
 		}
     	
         
